@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Lillebravo/database_intro#readme",
   "dependencies": {
-    "better-sqlite3": "^11.8.1"
+    "better-sqlite3": "^11.8.1",
+    "sqlite3": "^5.1.7"
   }
 }
