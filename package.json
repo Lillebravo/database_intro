@@ -1,0 +1,22 @@
+{
+  "name": "database_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lillebravo/database_intro.git"
+  },
+  "author": "Jerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lillebravo/database_intro/issues"
+  },
+  "homepage": "https://github.com/Lillebravo/database_intro#readme",
+  "dependencies": {
+    "better-sqlite3": "^11.8.1"
+  }
+}
